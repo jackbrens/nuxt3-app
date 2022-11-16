@@ -10,7 +10,7 @@ module.exports = {
   // js 使用单引号
   singleQuote: true,
   // 换行符统一
-  endOfLine: 'lf',
+  endOfLine: 'auto',
   // 分号不要
   semi: false,
   // json文件 行宽 200 个字符
