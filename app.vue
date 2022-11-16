@@ -1,9 +1,9 @@
 <template>
-  <div>
-    <the-header />
-    {{ title }}
-    <NuxtPage />
-  </div>
+	<div>
+		<the-header />
+		{{ title }}
+		<NuxtPage />
+	</div>
 </template>
 
 <script lang="ts" setup name="app">
